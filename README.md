@@ -6,3 +6,9 @@ Conteúdo referente a criação de projeto utilizando Arduino Nano, módulo sens
 **O material aqui contido não possui finalidade comercial.**
 
 ## Sketchs
+
+https://github.com/mekanus/Dispenser-Alcool/blob/main/Alcool70A.ino
+
+## Desenho do circuito
+
+https://github.com/mekanus/Dispenser-Alcool/blob/main/Circuito.jpeg
