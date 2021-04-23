@@ -13,6 +13,6 @@ https://github.com/mekanus/Dispenser-Alcool/blob/main/Alcool70A.ino
 
 https://github.com/mekanus/Dispenser-Alcool/blob/main/Circuito.jpeg
 
-## Postagem e explicacoes no blog Mekanus
+## Postagem e explicações no blog Mekanus
 
 http://mekanus.com.br/pandemia-e-tecnologia/
